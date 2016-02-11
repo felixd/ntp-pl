@@ -1,2 +1,2 @@
-# ntp-pl
-Network Time Protocol - Polish configuration
+# NTP Poland
+Network Time Protocol client configuration for Polish servers.
